@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew Bonfield</h1>
 <h3 align="center">A chemist with an interest in data science</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/experiment-lab-chemistry-chemical-gif-17735658">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zbq1i23tvxza7nb1mco8ha3elu7apwkixvqi9u0s&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Python bootcamps**
 
