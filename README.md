@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **Python bootcamps**
 
-- 🌱 I’m currently learning **C, Python, and CS fundamentals**
-
-- 🤝 I’m looking for help with **ML/AI and Data Science**
+- 🌱 I’m currently learning Python and data science fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mbonfi457/pythonprojects](https://github.com/mbonfi457/pythonprojects)
 
