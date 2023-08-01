@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning Python and data science fundamentals**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mbonfi457/pythonprojects](https://github.com/mbonfi457/pythonprojects)
-
 - 💬 Ask me about **chemistry, astronomy, and horology!**
 
 - 📫 How to reach me **bonfieldmatthew@gmail.com**
