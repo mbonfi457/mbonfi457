@@ -2,9 +2,9 @@
 <h3 align="center">A chemist with an interest in data science and programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zbq1i23tvxza7nb1mco8ha3elu7apwkixvqi9u0s&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Python bootcamps**
+- 🔭 I’m currently working on my MS Data Analytics (OMSA) from Georgia Tech
 
-- 🌱 I’m currently learning Python and data science fundamentals**
+- 🌱 I’m currently learning Python, R, and data science fundamentals
 
 - 💬 Ask me about **chemistry, astronomy, and horology!**
 
