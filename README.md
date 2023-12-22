@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my MS Data Analytics (OMSA) from Georgia Tech
 
-- 🌱 I’m currently learning Python, R, and data science fundamentals
+- 🌱 I’m currently learning Python, R, SQL, and data science fundamentals
 
 - 📫 How to reach me **bonfieldmatthew@gmail.com**
 
